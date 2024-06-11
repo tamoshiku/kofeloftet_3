@@ -1,0 +1,18 @@
+/* I am a comment */
+h1{
+    color: blueviolet;
+    background-color: yellow;
+    font-size: medium;
+}
+
+p{
+    font-family: fantasy;
+}
+
+#foo{
+    color:aqua;
+}
+
+.bg-blue{
+    background-color: rgb(71, 71, 188);
+}
